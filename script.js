@@ -1,7 +1,7 @@
-var app = new Vue ({
+var x = new Vue ({
   el:"#container",
   data:{
-    titolo:"Hello world!"
+    titolo:"Ho caricato l'immagine!!!",
+    immagine:"img/superman.jpg"
   }
-
 });
